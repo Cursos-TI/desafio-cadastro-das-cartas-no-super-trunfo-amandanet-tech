@@ -1,4 +1,7 @@
 #include <stdio.h>
+int main () { 
+    printf (Cartas super triunfo!/n");
+    return 0;
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
