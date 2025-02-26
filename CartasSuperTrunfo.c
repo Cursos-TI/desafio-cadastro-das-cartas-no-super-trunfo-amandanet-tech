@@ -11,12 +11,27 @@ int main () {
 
 int main() {
    
-
-    // Área para definiçâo das variáveis para armazenar as propriedades.
+printf ("escolha a comparação")
+    scanf ("%", & segundoAtributo")
+}
     int população;
     
-// Área para entrada de dados    
-   scanf ("%d", &população);
+  printf (" você escolheu o mesmo atributo!")    
+}else{
+    switch (segundoAtributo)
+    {
+    case "A";
+    case "a";
+    prinf ("você escolheu a opção Ataque!/n");
+    resultado 2= ataque1 > ataque2 ? 1 :0 ;
+
+        
+        break;
+    
+    default:
+        break;
+    }
+
 
     // Área para exibição dos dados da cidade
     prinf ("Exibição dados da cidade");
